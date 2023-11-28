@@ -2,7 +2,7 @@
 
 This is a bonus project for Rocketseat's explorer certificates, a weather forecasting application that has been converted from JavaScript (JS) to TypeScript (TS). The main goal of this conversion is to enhance the code's robustness, scalability, and maintainability, taking advantage of the benefits offered by TypeScript.
 
-![preview](.github/preview.png)
+![image](https://github.com/Joao-MarcosOM/TypeWeather/assets/70643779/d527a9a5-bab4-4780-82e6-542ed8915f88)
 
 </br>
 
