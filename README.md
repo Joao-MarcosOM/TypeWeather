@@ -10,6 +10,8 @@ TypeWeather is a weather forecasting application developed as a bonus project fo
 
 TypeWeather is designed to provide essential weather information for efficient day planning. Featuring an intuitive and visually appealing interface, the application offers crucial details such as current temperature, forecasted minimum and maximum temperatures, chance of rain, wind speed, humidity, UV index, and a comprehensive 5-day weather forecast. Utilize the forecast accuracy to make informed decisions and stay prepared for any weather condition.
 
+The TypeWeather application utilizes the [OpenWeather API](https://openweathermap.org/) to fetch weather data.
+
 </br>
 
 ## 🧪 Tools
