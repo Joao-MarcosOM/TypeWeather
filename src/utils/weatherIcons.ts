@@ -47,3 +47,6 @@ export const weatherIcons = {
     icon_night: iconSnowNight,
   },
 }
+
+//Nesse caso eu estou extraindo as chaves dos objetos
+export type WeatherIconsKeysProps = keyof typeof weatherIcons;
